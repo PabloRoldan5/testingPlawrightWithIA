@@ -1,0 +1,21 @@
+{
+  "name": "my-playwright-project",
+  "version": "1.0.0",
+  "description": "A Playwright project for automated testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "openai": "^5.10.2",
+    "playwright": "^1.54.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
